@@ -1,5 +1,4 @@
 # master-thesis-2024
-
 This is my MS Thesis named "Conspiracy Theories vs Critical  Thinking Using an Ensemble of  Transformers and Large Language  Models".
 
 This thesis contributes to the PAN at CLEF 2024 Oppositional Thinking Analysis shared task, focusing on automatically differentiating between conspiratorial and critical thinking narratives. 
